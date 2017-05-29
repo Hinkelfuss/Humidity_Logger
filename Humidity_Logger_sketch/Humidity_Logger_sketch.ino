@@ -1,3 +1,7 @@
+/* Humidity Logger - Part of Giess-o-mat project
+ * Logs Data of capacitive Sensor in a given time interval 
+ */
+
 #include <DS3231.h>
 #include <Wire.h>
 #include <SPI.h>
