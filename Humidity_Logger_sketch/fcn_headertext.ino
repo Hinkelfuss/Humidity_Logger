@@ -11,6 +11,8 @@ void headertext (String filename) {
   dataFile.print("\t");
   dataFile.print("Data Capacitance");
   dataFile.print("\t");
-  dataFile.println("Data Capacitance Prozent");
+  dataFile.print("Data Capacitance Prozent");
+  dataFile.print("\t");
+  dataFile.println("Data Temperature");
 }
 
